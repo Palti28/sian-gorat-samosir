@@ -380,7 +380,7 @@
   overflow-x: auto;
   scroll-snap-type: x mandatory;
   padding-bottom: 16px;
-  margin: 0 -32px;
+  margin: 0;
   padding-left: 32px;
   padding-right: 32px;
 }
